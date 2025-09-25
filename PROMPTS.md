@@ -1,0 +1,1 @@
+Right now, you can open a new chat by clicking on the trash icon. I want it to start a new chat for a new cookie session. How cna i do this? Do not implement just show me
